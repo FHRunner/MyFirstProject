@@ -19,6 +19,7 @@ public class Main
         x = 0;
         System.out.println("Hello World");
         System.out.println("My Name is Baron");
+        System.out.println("This is my first BlueJ project");
     }
 
     /**
