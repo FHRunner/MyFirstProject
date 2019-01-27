@@ -20,6 +20,7 @@ public class Main
         System.out.println("Hello World");
         System.out.println("My Name is Baron");
         System.out.println("This is my first BlueJ project");
+        System.out.println("This is Bill's first contribution to the project");
     }
 
     /**
